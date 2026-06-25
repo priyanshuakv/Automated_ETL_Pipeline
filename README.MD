@@ -71,6 +71,10 @@ Power BI Desktop is mapped directly to the local database via an **Import** mode
 
 > **Deployment Note:** This dashboard is built using Power BI Desktop connected directly to the local PostgreSQL database engine. Due to cloud licensing constraints for local showcase environments, the raw Power BI workbook (`FinGuard_Dashboard.pbix`) is included directly in this repository for local inspection.
 
+##  Power BI Dashboard
+> ⚠️ **Note:** Due to GitHub's file size limits, the interactive `.pbix` dashboard file is hosted externally.
+
+* **[Download/View the Interactive Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1r7nmpJGFMy8sNpmj3QmjBMg6cqYIVkt4/view?usp=sharing)**
 ---
 
 ## Orchestration Using Windows Task Scheduler
